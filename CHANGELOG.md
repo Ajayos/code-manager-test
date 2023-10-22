@@ -4,7 +4,14 @@ All notable changes to this project will be documented in this file. Dates are d
 
 
 
-#### [Unreleased](https://github.com/Ajayos/code-manager-test-private/compare/v1.0.10...HEAD)
+#### [Unreleased](https://github.com/Ajayos/code-manager-test-private/compare/v1.0.11...HEAD)
+
+#### [v1.0.11](https://github.com/Ajayos/code-manager-test-private/compare/v1.0.10...v1.0.11)
+
+> 22 October 2023
+
+- updated code-manager to new base [`#7`](https://github.com/Ajayos/code-manager-test-private/pull/7)
+- chore(release): 1.0.11 [`3269fa3`](https://github.com/Ajayos/code-manager-test-private/commit/3269fa35531eac6fe901b992fc25b8338764f21e)
 
 #### [v1.0.10](https://github.com/Ajayos/code-manager-test-private/compare/v1.0.7...v1.0.10)
 
