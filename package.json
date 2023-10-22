@@ -1,7 +1,7 @@
 {
   "name": "code-manager-test",
-  "version": "1.0.7",
-  "description": "test account",
+  "version": "1.0.10",
+  "description": "A new keerthana package",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
